@@ -1,0 +1,72 @@
+[
+{
+    "action": "create",
+    "entity_type": "component",
+    "payload": {
+        "id": "25589645-cd89-44bb-8954-6b4ee87aa57f",
+        "name": "image name",
+        "file_type": "jpeg"
+    }
+},
+{
+    "action": "create",
+    "entity_type": "component",
+    "payload": {
+        "id": "41fc98be-27ad-4b6b-a704-e613a1a87926",
+        "name": "image name",
+        "file_type": "jpeg"
+    }
+},
+{
+    "action": "create",
+    "entity_type": "component",
+    "payload": {
+        "id": "d5a21ebf-b364-4d3a-a425-cf6137ceed76",
+        "name": "image name",
+        "file_type": "jpeg"
+    }
+},
+{
+    "action": "create",
+    "entity_type": "component",
+    "payload": {
+        "id": "fc56ef72-9af1-40e2-a58e-cf52be1aa1a2",
+        "name": "image name",
+        "file_type": "jpeg"
+    }
+},
+{
+    "action": "update",
+    "entity_type": "task",
+    "id": "25589645-cd89-44bb-8954-6b4ee87aa57f",
+    "modified_fields": ["assignee"],
+    "payload": {
+        "name": "task name",
+        "assignee_id": "95418813-7ac6-4f33-a6d8-5331789b46f8"
+    }
+},
+{
+    "action": "update",
+    "entity_type": "task",
+    "id": "41fc98be-27ad-4b6b-a704-e613a1a87926",
+    "modified_fields": [
+        "assignee"
+    ],
+    "payload": {
+        "name": "task name",
+        "assignee_id": "95418813-7ac6-4f33-a6d8-5331789b46f8"
+    }
+},
+{
+    "action": "update",
+    "entity_type": "task",
+    "id": "d5a21ebf-b364-4d3a-a425-cf6137ceed76",
+    "modified_fields": [
+        "assignee"
+    ],
+    "payload": {
+        "name": "task name",
+        "assignee_id": "95418813-7ac6-4f33-a6d8-5331789b46f8"
+    }
+}
+]
